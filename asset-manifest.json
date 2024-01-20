@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayacodes/static/css/main.b4d82362.css",
+    "main.js": "/mayacodes/static/js/main.be301d0d.js",
+    "static/js/787.b54f8559.chunk.js": "/mayacodes/static/js/787.b54f8559.chunk.js",
+    "index.html": "/mayacodes/index.html",
+    "main.b4d82362.css.map": "/mayacodes/static/css/main.b4d82362.css.map",
+    "main.be301d0d.js.map": "/mayacodes/static/js/main.be301d0d.js.map",
+    "787.b54f8559.chunk.js.map": "/mayacodes/static/js/787.b54f8559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d82362.css",
+    "static/js/main.be301d0d.js"
+  ]
+}
